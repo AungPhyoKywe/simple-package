@@ -12,7 +12,7 @@
 You can install the package via composer:
 
 ```bash
-composer require vendor-name/package-name
+composer require aungphyokywe/simple-package
 ```
 
 ## Usage (Just Like)
