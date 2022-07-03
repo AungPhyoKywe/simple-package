@@ -1,7 +1,6 @@
 <?php
 
-
-namespace Tests;
+namespace AungPhyoKywe\PhpPackageStructure\Tests;
 
 use PHPUnit\Framework\TestCase;
 use AungPhyoKywe\PhpPackageStructure\FirstClass;
